@@ -60,3 +60,5 @@ Analysis of 3,900 customer transactions to uncover spending patterns, customer s
 ├── dashboard/         # Power BI (.pbix) file
 └── README.md
 ```
+<img width="966" height="485" alt="image" src="https://github.com/user-attachments/assets/7d606051-6e82-4805-9318-e84cbe14a57d" />
+
